@@ -45,7 +45,7 @@ This is a collection of generative, including text-to-image, text-to-3D, graph-t
 </p>
 Note: “N/A”=“not available”, “Rec. fromScan” is the result of reconstruction from raw RGB-D data.
 
-<br>
+---
 
 # 🍁 3D Synthesis
 
