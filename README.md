@@ -21,7 +21,7 @@
 
 
 # 🎀 Introduction 
-This is a collection of generative, including text-to-image, text-to-3D, graph-to-3D, etc. It also includes some learning materials. Welcome star, fork and PR !
+This is a collection of AIGC, including text-to-image, text-to-3D, graph-to-3D, etc. Welcome star, fork and PR !
   <!-- <p align="center">
   <img src="assets/intro1.png" width="75%">
 </p> -->
