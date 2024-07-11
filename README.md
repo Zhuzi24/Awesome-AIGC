@@ -29,8 +29,10 @@ This is a collection of AIGC, including text-to-image, text-to-3D, graph-to-3D, 
 ---
 
  # 📘 Table of Contents
-- [🎨 Introduction](#-introduction)
+- [🎀 Introduction](#-introduction)
 - [🚠 Datasets](#-datasets)
+- [🍁 3D Synthesis]
+- [🍎 Image Generetion]
 - [⭐️ Star History](#️-star-history)
 
 
