@@ -56,13 +56,18 @@ Note: “N/A”=“not available”, “Rec. fromScan” is the result of recons
 # 🍁 3D Synthesis
 
 ## 🌿 Graph-to-3D
-+ [**Graph-to-3D: End-to-End Generation and Manipulation of 3D Scenes Using
- Scene Graphs** ![Paper](https://img.shields.io/badge/ICCV21-00CED1)](https://openaccess.thecvf.com/content/ICCV2021/papers/Dhamo_Graph-to-3D_End-to-End_Generation_and_Manipulation_of_3D_Scenes_Using_Scene_ICCV_2021_paper.pdf) <img alt="GitHub stars" src="https://img.shields.io/github/stars/he-dhamo/graphto3d?style=social"> <img alt="GitHub forks" src="https://img.shields.io/github/forks/he-dhamo/graphto3d?style=social"> 
++ [**Graph-to-3D: End-to-End Generation and Manipulation of 3D Scenes Using Scene Graphs** ![Paper](https://img.shields.io/badge/ICCV21-00CED1)](https://openaccess.thecvf.com/content/ICCV2021/papers/Dhamo_Graph-to-3D_End-to-End_Generation_and_Manipulation_of_3D_Scenes_Using_Scene_ICCV_2021_paper.pdf) <img alt="GitHub stars" src="https://img.shields.io/github/stars/he-dhamo/graphto3d?style=social"> <img alt="GitHub forks" src="https://img.shields.io/github/forks/he-dhamo/graphto3d?style=social"> 
 
- + [**CommonScenes: Generating Commonsense 3D Indoor
- Scenes with Scene Graph Diffusion** ![Paper](https://img.shields.io/badge/NeurIPS23-CD5C5C)](https://proceedings.neurips.cc/paper_files/paper/2023/file/5fba70900a84a8fb755c48ba99420c95-Paper-Conference.pdf) <img alt="GitHub stars" src="https://img.shields.io/github/stars/ymxlzgy/commonscenes?style=social"> <img alt="GitHub forks" src="https://img.shields.io/github/forks/ymxlzgy/commonscenes?style=social">
 
- + [**GraphDreamer: Compositional 3D Scene Synthesis from Scene Graphs** ![Paper](https://img.shields.io/badge/CVPR24-8A2BE2)](https://openaccess.thecvf.com/content/CVPR2024/papers/Gao_GraphDreamer_Compositional_3D_Scene_Synthesis_from_Scene_Graphs_CVPR_2024_paper.pdf) <img alt="GitHub stars" src="https://img.shields.io/github/stars/GGGHSL/GraphDreamer?style=social"> <img alt="GitHub forks" src="https://img.shields.io/github/forks/GGGHSL/GraphDreamer?style=social"> <b>NO 3D BBOX</b>
+ + [**CommonScenes: Generating Commonsense 3D Indoor Scenes with Scene Graph Diffusion** ![Paper](https://img.shields.io/badge/NeurIPS23-CD5C5C)](https://proceedings.neurips.cc/paper_files/paper/2023/file/5fba70900a84a8fb755c48ba99420c95-Paper-Conference.pdf) <img alt="GitHub stars" src="https://img.shields.io/github/stars/ymxlzgy/commonscenes?style=social"> <img alt="GitHub forks" src="https://img.shields.io/github/forks/ymxlzgy/commonscenes?style=social">
+
++ [**Compositional 3D Scene Synthesis with Scene Graph Guided Layout-Shape Generation** ![Paper](https://img.shields.io/badge/arXiv24-b22222)](https://arxiv.org/pdf/2403.12848)
+
+  <b>Note:</b> Graph-to-3D (Semi-generative), CommonScenes (Generative (baseline)), and Compositional 3D (Generative while focusing on the layout) can be understood together.
+
+ + [**GraphDreamer: Compositional 3D Scene Synthesis from Scene Graphs** ![Paper](https://img.shields.io/badge/CVPR24-8A2BE2)](https://openaccess.thecvf.com/content/CVPR2024/papers/Gao_GraphDreamer_Compositional_3D_Scene_Synthesis_from_Scene_Graphs_CVPR_2024_paper.pdf) <img alt="GitHub stars" src="https://img.shields.io/github/stars/GGGHSL/GraphDreamer?style=social"> <img alt="GitHub forks" src="https://img.shields.io/github/forks/GGGHSL/GraphDreamer?style=social">
+
+   <b>Note:</b> GraphDreamer do not need 3D bbox.
 
  + [**EchoScene: Indoor Scene Generation via Information Echo over Scene Graph Diffusion** ![Paper](https://img.shields.io/badge/ECCV24-1e90ff)](https://arxiv.org/pdf/2405.00915) <img alt="GitHub stars" src="https://img.shields.io/github/stars/ymxlzgy/echoscene?style=social"> <img alt="GitHub forks" src="https://img.shields.io/github/forks/ymxlzgy/echoscene?style=social">
 
